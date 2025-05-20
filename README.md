@@ -1,2 +1,22 @@
-# SalonManagementSystem
-This Salon Management System is a web-based application designed to streamline and automate salon operations, providing a comprehensive solution for managing appointments, customers, services, and more. It aims to enhance efficiency, improve customer experience, and simplify day-to-day tasks for salon owners and customers.
+System Installation/Setup 
+
+o Open your XAMPP Control Panel and start Apache and MySQL.
+o Extract the downloaded source code zip file.
+o Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
+o Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
+o Create a new database naming salon_system.
+o Import the provided SQL file. The file is known as salon_system.sql located inside the database folder.
+o Browse the Salon Management System  in a browser. i.e.
+http://localhost/SalonManagementSystem/ for student-side and
+http://localhost/student_clearance_system/admin for admin side.
+
+
+Create Manager and User Default Access:
+
+Admin
+- Username: Admin
+- Password: 123456
+
+Customer
+- Username: Customer
+- Password: customer1
