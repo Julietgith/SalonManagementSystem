@@ -7,8 +7,7 @@ o Browse the PHPMyAdmin in a browser. i.e. http://localhost/phpmyadmin
 o Create a new database naming salon_system.
 o Import the provided SQL file. The file is known as salon_system.sql located inside the database folder.
 o Browse the Salon Management System  in a browser. i.e.
-http://localhost/SalonManagementSystem/ for student-side and
-http://localhost/student_clearance_system/admin for admin side.
+http://localhost/SalonManagementSystem/ 
 
 
 Create Manager and User Default Access:
