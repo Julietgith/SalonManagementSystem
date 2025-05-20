@@ -22,6 +22,8 @@ http://localhost/SalonManagementSystem/customer fot the customer.
 
 
 
+
+
 Create Manager and User Default Access:
 
 Admin
