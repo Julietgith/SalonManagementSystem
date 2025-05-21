@@ -14,7 +14,7 @@ o Create a new database naming salon_system.
 o Import the provided SQL file. The file is known as salon_system.sql located inside the database folder.
 
 o Browse the Salon Management System  in a browser. i.e.
-http://localhost/SalonManagementSystem/admmin 
+http://localhost/SalonManagementSystem/admin 
 
 
 
